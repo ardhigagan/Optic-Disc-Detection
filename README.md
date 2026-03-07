@@ -14,3 +14,6 @@ The repository is organized into different folders based on the approach used fo
 *   **`Morphological + Thresholding/`**: Employs traditional computer vision techniques, using a combination of image thresholding and morphological operations (like erosion and dilation) to extract the optic disc.
 *   **`original/`**: Contains the original, unprocessed retinal fundus image dataset used for training and testing the algorithms.
 *   **`summary.docx`**: A comprehensive summary document detailing the project methodology, experimental setup, and comparison of results across the different techniques.
+
+## 📊 Results & Summary
+A detailed breakdown of the accuracy, computational efficiency, and qualitative results for each method (CNN, DBSCAN, K-Means, and Morphological operations) can be found in the summary.docx file included in the root directory.
